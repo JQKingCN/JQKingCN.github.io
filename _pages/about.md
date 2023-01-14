@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Postdoctoral Research Fellow at <a href="https://www.qut.edu.au/">Queensland University of Technology</a>
 
 profile:
   align: right
