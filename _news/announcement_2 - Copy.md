@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 title: A long announcement with details1
 date: 2020-11-07 16:11:00-0400
 inline: false
