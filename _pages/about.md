@@ -9,9 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <a href="https://www.qut.edu.au">O-405, Gardens Point Campus, Queensland University of Technology</a><br>
-    <a href="https://goo.gl/maps/zaW3CCT38t4TsBc49">2 George Street,
-    Brisbane, QLD 4035, Australia</a>
+    <p>O-405, Gardens Point Campus<\p>
+    <p>Queensland University of Technology</p>
+    <p>2 George Street, Brisbane, QLD 4035, Australia</p>
+    <a href="https://goo.gl/maps/zaW3CCT38t4TsBc49"><i class="fa fa-map" aria-hidden="true"></i></a>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
