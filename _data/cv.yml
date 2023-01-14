@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Jiaqiu Wang
     - name: Date of Birth
-      value: 14th March 1879
+      value: 27th October 1991
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
