@@ -12,21 +12,17 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      institution: <a href="https://www.qut.edu.au/">Queensland University of Technology</a>, Brisbane, Australia
+      year: 2016 - 2020
+
+    - title: MSc by Research
+      institution: <a href="https://www.dundee.ac.uk/">University of Dundee</a>, Dundee, UK
+      year: 2014 - 2016
+
+    - title: BEng
+      institution: <a href="https://www.cqu.edu.cn/">Chongqing University</a>, Chongqing University, Chongqing, China
+      year: 2010 - 2014
+
 
 - title: Experience
   type: time_table
