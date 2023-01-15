@@ -39,37 +39,37 @@
       institution: <a href="https://www.qut.edu.au/about/faculty-of-health/school-of-clinical-sciences">School of Clinical Sciences</a>, <a href="https://www.qut.edu.au/">Queensland University of Technology</a>, Brisbane, Australia
       year: 2020 - 2021
 
-- title: Open Source Projects
+- title: Grants
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Industry ECR/MCR Grant
+      institution: <a href="https://research.qut.edu.au/cbt/">Centre for Biomedical Technologies</a>, <a href="https://www.qut.edu.au/">Queensland University of Technology</a>, Brisbane, Australia
+      year: 2022
+      description: Advanced optical coherence tomography-based elastography (OCE) algorithm designed for strain field mapping of soft tissue.
 
-- title: Honors and Awards
+    - title: New Investigator Grants
+      institution: <a href="https://www.thecommongood.org.au/">The Prince Charles Hospital Foundation</a>, Australia
+      year: 2022
+      description: Study of plaque rupture and erosion with an optical coherence tomography (OCT)-based patient-specific coronary model and fluid-structure interaction (FSI) simulation.
+
+- title: Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Roland Bishop Award for Biomedical Engineering Research
+        - Executive Dean's Commendation for Outstanding Doctoral Thesis Award
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Computational Biomechanical Analysis
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - hemodynamics/CFD
+        - structural analysis
+        - fluid-structural interaction (FSI)
+    - title: Digital Imaging Processing
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - biomedical imaging processing
+        - segmentation/reconstruction/modelling
+        - DIC/DVC/optical flow
