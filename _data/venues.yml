@@ -1,6 +1,35 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"BMMB":
+  url: https://www.springer.com/journal/10237
+  color: "#f05737"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Sci. Rep":
+  url: https://www.nature.com/srep/
+  color: "#29303c"
+
+"Opt. Express":
+  url: https://opg.optica.org/oe/home.cfm
+  color: "#7800cc"
+
+"J. Biomech":
+  url: https://www.sciencedirect.com/journal/journal-of-biomechanics
+  color: "#b9b9b9"
+
+"Cerebrovasc Dis":
+  url: https://www.karger.com/Journal/Home/224153
+  color: "#004b4f"  
+
+"Ann Biomed Eng":
+  url: https://www.springer.com/journal/10439
+  color: "#090a0c" 
+
+"Med Eng Phys":
+  url: https://www.sciencedirect.com/journal/medical-engineering-and-physics
+  color: "#bdd632" 
+
+"J. Biomed Opt":
+  url: https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics
+  color: "#fff100"
+
+"Appl. Therm. Eng":
+  url: https://www.sciencedirect.com/journal/applied-thermal-engineering
+  color: "#00558b"
