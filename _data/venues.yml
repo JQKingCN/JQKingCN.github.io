@@ -2,15 +2,15 @@
   url: https://www.springer.com/journal/10237
   color: "#f05737"
 
-"Sci. Rep":
+"Sci Rep":
   url: https://www.nature.com/srep/
   color: "#29303c"
 
-"Opt. Express":
+"Opt Express":
   url: https://opg.optica.org/oe/home.cfm
   color: "#7800cc"
 
-"J. Biomech":
+"J Biomech":
   url: https://www.sciencedirect.com/journal/journal-of-biomechanics
   color: "#b9b9b9"
 
@@ -26,11 +26,11 @@
   url: https://www.sciencedirect.com/journal/medical-engineering-and-physics
   color: "#bdd632" 
 
-"J. Biomed Opt":
+"J Biomed Opt":
   url: https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics
   color: "#fff100"
 
-"Appl. Therm. Eng":
+"Appl Therm Eng":
   url: https://www.sciencedirect.com/journal/applied-thermal-engineering
   color: "#00558b"
 
