@@ -43,22 +43,23 @@
   type: time_table
   contents:
     - year: 2022
-      - title: Industry ECR/MCR Grant
-        institution: <a href="https://research.qut.edu.au/cbt/">Centre for Biomedical Technologies</a>, <a href="https://www.qut.edu.au/">Queensland University of Technology</a>, Brisbane, Australia
-        description: Advanced optical coherence tomography-based elastography (OCE) algorithm designed for strain field mapping of soft tissue.
+      title: Industry ECR/MCR Grant
+      institution: <a href="https://research.qut.edu.au/cbt/">Centre for Biomedical Technologies</a>, <a href="https://www.qut.edu.au/">Queensland University of Technology</a>, Brisbane, Australia
+      description: Advanced optical coherence tomography-based elastography (OCE) algorithm designed for strain field mapping of soft tissue.
 
-      - title: New Investigator Grants
-        institution: <a href="https://www.thecommongood.org.au/">The Prince Charles Hospital Foundation</a>, Australia
-        description: Study of plaque rupture and erosion with an optical coherence tomography (OCT)-based patient-specific coronary model and fluid-structure interaction (FSI) simulation.
+      title: New Investigator Grants
+      institution: <a href="https://www.thecommongood.org.au/">The Prince Charles Hospital Foundation</a>, Australia
+      description: Study of plaque rupture and erosion with an optical coherence tomography (OCT)-based patient-specific coronary model and fluid-structure interaction (FSI) simulation.
 
 - title: Awards
   type: time_table
   contents:
     - year: 2021
-      - title: Roland Bishop Award for Biomedical Engineering Research
-        institution: <a href="https://www.qut.edu.au/">Queensland University of Technology</a>, Brisbane, Australia
-      - title: Executive Dean's Commendation for Outstanding Doctoral Thesis Award
-        institution: <a href="https://www.qut.edu.au/">Queensland University of Technology</a>, Brisbane, Australia
+      title: Roland Bishop Award for Biomedical Engineering Research
+      institution: <a href="https://www.qut.edu.au/">Queensland University of Technology</a>, Brisbane, Australia
+
+      title: Executive Dean's Commendation for Outstanding Doctoral Thesis Award
+      institution: <a href="https://www.qut.edu.au/">Queensland University of Technology</a> Brisbane, Australia
 
 - title: Academic Interests
   type: nested_list
