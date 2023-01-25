@@ -28,7 +28,7 @@
   type: time_table
   contents:
     - title: Postdoctoral Researcher
-      institution: <a href="https://www.qut.edu.au/about/faculty-of-engineering/school-of-mechanical-medical-and-process-engineering">School of Mechanical, Medical & Process Engineering</a>, <a href="https://www.qut.edu.au/">Queensland University of Technology</a>, Brisbane, Australia
+      institution: <a href="https://www.qut.edu.au/about/faculty-of-engineering/school-of-mechanical-medical-and-process-engineering">School of Mechanical, Medical & Process Engineering</a>, Queensland University of Technology, Brisbane, Australia
       year: 2021 - NOW
 
     - title: Facility Scientist
@@ -36,14 +36,14 @@
       year: 2021 - 2022
 
     - title: Postdoctoral Researcher
-      institution: <a href="https://www.qut.edu.au/about/faculty-of-health/school-of-clinical-sciences">School of Clinical Sciences</a>, <a href="https://www.qut.edu.au/">Queensland University of Technology</a>, Brisbane, Australia
+      institution: <a href="https://www.qut.edu.au/about/faculty-of-health/school-of-clinical-sciences">School of Clinical Sciences</a>, Queensland University of Technology, Brisbane, Australia
       year: 2020 - 2021
 
 - title: Grants
   type: time_table
   contents:
     - title: Industry ECR/MCR Grant
-      institution: <a href="https://research.qut.edu.au/cbt/">Centre for Biomedical Technologies</a>, <a href="https://www.qut.edu.au/">Queensland University of Technology</a>, Brisbane, Australia
+      institution: <a href="https://research.qut.edu.au/cbt/">Centre for Biomedical Technologies</a>, Queensland University of Technology, Brisbane, Australia
       year: 2022
       description: Advanced optical coherence tomography-based elastography (OCE) algorithm designed for strain field mapping of soft tissue.
 
@@ -56,11 +56,11 @@
   type: time_table
   contents:
     - title: Roland Bishop Award for Biomedical Engineering Research
-      institution: <a href="https://www.qut.edu.au/">Queensland University of Technology</a>, Brisbane, Australia
+      institution: Queensland University of Technology, Brisbane, Australia
       year: 2021
 
     - title: Executive Dean's Commendation for Outstanding Doctoral Thesis Award
-      institution: <a href="https://www.qut.edu.au/">Queensland University of Technology</a>, Brisbane, Australia
+      institution: Queensland University of Technology, Brisbane, Australia
       year: 2021
 
 - title: Academic Interests
