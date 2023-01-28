@@ -11,18 +11,17 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Doctor of Philosophy
       institution: <a href="https://www.qut.edu.au/">Queensland University of Technology</a>, Brisbane, Australia
       year: 2016 - 2020
 
-    - title: MSc by Research
+    - title: Master of Science by Research
       institution: <a href="https://www.dundee.ac.uk/">University of Dundee</a>, Dundee, UK
       year: 2014 - 2016
 
-    - title: BEng
+    - title: Bachelor of Engineering
       institution: <a href="https://www.cqu.edu.cn/">Chongqing University</a>, Chongqing, China
       year: 2010 - 2014
-
 
 - title: Experience
   type: time_table
