@@ -19,4 +19,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-This personal webiste is still under developing ...
+Dr. Jiaqiu Wang is postdoctoral research fellow at Queensland University of Technology (Brisbane, Australia). His research interest is biomechanics and biomedical engineering. He has extensive experience in computational modelling and simulation, medical imaging and processing, mechanical and fluidic experiments.
+
