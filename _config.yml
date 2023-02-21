@@ -79,7 +79,7 @@ orcid_id: 0000-0001-7710-3508 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-wos_id: #AAL-1925-2020 # your ID on Web of Science
+wos_id: AAL-1925-2020 # your ID on Web of Science
 osf_id: #w9h8m # your OSF ID
 research_gate_profile: Jiaqiu-Wang # your profile on ResearchGate
 blogger_url: # your blogger URL
